@@ -28,7 +28,7 @@ Can limit filesize too
 
 Same as imagemagick, but for videos.
 
-`ffmpeg -i input-video.mp4 ouptut.ext`
+`ffmpeg -i input-video.mp4 output.ext`
 
 <!-- .slide: data-background="#232323" -->
 
