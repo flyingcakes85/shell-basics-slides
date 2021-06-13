@@ -82,6 +82,7 @@ Streaming Videos?
 
 
 For only audio, pass `--no-video`
+
 `mpv "https://www.youtube.com/watch?v=pBX2T7R_DgY" --no-video`
 
 I even got a detailed blog post about this. [Click here](https://flyingcakes85.github.io/blog/shell/2021/06/01/mpv-yt.html)
